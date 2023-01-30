@@ -8,9 +8,7 @@
         "scripting",
         "tabs",
         "nativeMessaging",
-        "webNavigation",
-        "http://*/",
-        "https://*/"
+        "webNavigation"
     ],
     "background": {
         "service_worker": "background.js"
