@@ -1,2 +1,2 @@
 # Capture
-Captures webpages
+Chrome extension to captures full webpages
